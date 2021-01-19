@@ -1,4 +1,7 @@
-### Hi there 👋
+[![hub](https://img.shields.io/badge/powered%20by-hub%20-ff5a1f.svg)](https://github.com/activeloopai/Hub)
+
+### Hi there 👋, here's my [blog](https://howard-haowen.github.io/blog.ai/)
+
 
 <!--
 **howard-haowen/howard-haowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
