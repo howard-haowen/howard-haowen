@@ -3,8 +3,8 @@
 
 ### Hi there 👋, here's my [blog](https://howard-haowen.github.io/blog.ai/).
 
-- 🔭 I’m currently working on Chinese NLP.
-- 🌱 I’m currently learning `fast.ai`.
+- 🔭 I’m currently working on building a `streamlit` service for predicting [real estate prices in Kaohsiung, TW](https://github.com/howard-haowen/kh-real-estate).
+- 🌱 I’m currently learning `fast.ai` and `bentoML`.
 - ⚡ Fun fact: The dog in my profile picture is Nainai. She's sweet, patient, and a bit stubborn. 
 
 <!--
