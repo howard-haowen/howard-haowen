@@ -12,8 +12,8 @@
 
 ---
 
-- 🔭 I’m currently working on building a `streamlit` service for predicting [real estate prices in Kaohsiung, TW](https://github.com/howard-haowen/kh-real-estate).
-- 🌱 I’m currently learning [`fast.ai`](https://github.com/fastai) and [`bentoML`](https://github.com/bentoml/BentoML).
+- 🔭 I’m currently working on building web services using [`spaCy`](https://github.com/explosion/spaCy). 
+- 🌱 I’m currently learning [`fast.ai`](https://github.com/fastai) and [`MLflow`](https://github.com/mlflow/mlflow).
 - ⚡ Fun fact: The dog in my profile picture is Nainai. She's sweet, patient, and a bit stubborn. 
 
 <!--
