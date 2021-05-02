@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on building web services using [`spaCy`](https://github.com/explosion/spaCy). 
 - 🌱 I’m currently learning [`fast.ai`](https://github.com/fastai) and [`MLflow`](https://github.com/mlflow/mlflow).
-- ⚡ Fun fact: The dog in my profile picture is Nainai. She's sweet, patient, and a bit stubborn. 
+- ⚡ Fun fact: I was an English teacher but now an AI engineer. 
 
 <!--
 **howard-haowen/howard-haowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
