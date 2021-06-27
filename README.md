@@ -15,8 +15,6 @@
 - 🔭 I’m currently working on building web services using [`spaCy`](https://github.com/explosion/spaCy) and [`fastAPI`](https://github.com/tiangolo/fastapi). 
 - 🌱 I’m currently learning [`Huggingface Transformers`](https://github.com/huggingface/transformers) and [`MLflow`](https://github.com/mlflow/mlflow).
 - ⚡ Fun fact: I taught English for a living but now work as an AI/NLP engineer. 
-- ✨ I'm a data scientist certified by Microsfot, and here's my badge.
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7c4f2a43-cf71-4604-b36d-d68544c96a2e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - 📫 How to reach me: howard.haowen AT gmail.com
 
 <!--
