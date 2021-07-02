@@ -1,7 +1,12 @@
+## Languages
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## Cloud
+![azure](https://img.shields.io/badge/MS_Azure-blue?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
