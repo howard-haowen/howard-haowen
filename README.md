@@ -11,16 +11,50 @@
 - 📫 How to reach me: howard.haowen AT gmail.com
 
 ---
-## Languages
+## Language
 ![python](https://img.shields.io/badge/Python-success?style=for-the-badge&logo=python&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-success?style=for-the-badge&logo=markdown&logoColor=white)
 
-![latex](https://img.shields.io/badge/LaTex-success?style=for-the-badge&logo=latex&logoColor=white)
+## Machine learning & data science 
+![scikitlearn](https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-orange?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/Numpy-orange?style=for-the-badge&logo=numpy&logoColor=white)
+![tqdm](https://img.shields.io/badge/tqdm-orange?style=for-the-badge&logo=tqdm&logoColor=white)
+![selenium](https://img.shields.io/badge/Selenium-orange?style=for-the-badge&logo=selenium&logoColor=white)
+![plotly](https://img.shields.io/badge/Plotly-orange?style=for-the-badge&logo=plotly&logoColor=white)
+
+## Deep learning
+![keras](https://img.shields.io/badge/Keras-purple?style=for-the-badge&logo=keras&logoColor=white)
+![pytorch](https://img.shields.io/badge/Pytorch-purple?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## Cloud
-![azure](https://img.shields.io/badge/MS_Azure-blue?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![azure](https://img.shields.io/badge/Microsoft_Azure-blue?style=for-the-badge&logo=azurepipelines&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-blue?style=for-the-badge&logo=heroku&logoColor=white)
+
+## Editor & IDE
+![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-navy?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![googlecolab](https://img.shields.io/badge/Google_Colab-navy?style=for-the-badge&logo=googlecolab&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-navy?style=for-the-badge&logo=jupyter&logoColor=white)
+![neovim](https://img.shields.io/badge/Neovim-navy?style=for-the-badge&logo=neovim&logoColor=white)
+![latex](https://img.shields.io/badge/LaTex-navy?style=for-the-badge&logo=latex&logoColor=white)
+
+## Deployment 
+![fastapi](https://img.shields.io/badge/fastAPI-red?style=for-the-badge&logo=fastapi&logoColor=white)
+![pm2](https://img.shields.io/badge/PM2-red?style=for-the-badge&logo=pm2&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white)
+
+## Control 
+![anaconda](https://img.shields.io/badge/Anaconda-violet?style=for-the-badge&logo=anaconda&logoColor=white)
+![git](https://img.shields.io/badge/Git-violet?style=for-the-badge&logo=git&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-violet?style=for-the-badge&logo=postman&logoColor=white)
+
+## Database
+![sqlite](https://img.shields.io/badge/SQLite-blueviolet?style=for-the-badge&logo=sqlite&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-blueviolet?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Online learning 
+![udemy](https://img.shields.io/badge/Udemy-yellowgreen?style=for-the-badge&logo=udemy&logoColor=white)
 
 <!--
 **howard-haowen/howard-haowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
