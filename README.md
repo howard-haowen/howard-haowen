@@ -3,8 +3,7 @@ Howdy y'all 🤠! My name is how-when, don't ask me why. Here's my [blog](https:
 
 ---
 # About me
-- 🤖 I'm in charge of creating NLP web services using [`spaCy`](https://github.com/explosion/spaCy) and [`fastAPI`](https://github.com/tiangolo/fastapi). 
-- 🔬 I’m currently learning [`Redis`](https://github.com/redis/redis) and [`HuggingFace Transformers`](https://github.com/huggingface/transformers).
+- 🔬 I’m currently learning [`Obsidian`](https://obsidian.md) and [`CheckList`](https://github.com/marcotcr/checklist).
 - ☁️ I hold the certificate of [Microsoft Certified: Azure Data Scientist Associate](https://www.credly.com/badges/7c4f2a43-cf71-4604-b36d-d68544c96a2e/public_url) (DP-100).
 - 👨‍🏫 Fun fact: I taught English for a living but now work as an AI/NLP engineer. 
 - 🌐 Here's my academic [profile](https://howard-haowen.github.io).
