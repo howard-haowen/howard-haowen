@@ -1,12 +1,13 @@
 # Intro
-Howdy y'all 🤠! My name is how-when, don't ask me why. Here's my [blog](https://howard-haowen.github.io/blog.ai/), which documents my learning journey to the world of Python programming and NLP 🤗. 
+Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned AI engineer working in Python.  
 
 ---
 # About me
-- 🔬 I’m currently learning [`Obsidian`](https://obsidian.md) and [`CheckList`](https://github.com/marcotcr/checklist).
-- ☁️ I hold the certificate of [Microsoft Certified: Azure Data Scientist Associate](https://www.credly.com/badges/7c4f2a43-cf71-4604-b36d-d68544c96a2e/public_url) (DP-100).
 - 👨‍🏫 Fun fact: I taught English for a living but now work as an AI/NLP engineer. 
-- 🌐 Here's my academic [profile](https://howard-haowen.github.io).
+- 🤗 Here's my [blog](https://howard-haowen.github.io/blog.ai/), which documents my learning journey to the world of programming and NLP.
+- 🌐 Here's my [academic profile](https://howard-haowen.github.io).
+- ☁️ I hold the certificate of [Microsoft Certified: Azure Data Scientist Associate](https://www.credly.com/badges/7c4f2a43-cf71-4604-b36d-d68544c96a2e/public_url) (DP-100).
+- 🔬 I’m currently learning [`Golang`](https://github.com/astaxie/build-web-application-with-golang).
 - 📫 How to reach me: howard.haowen AT gmail.com
 
 ---
