@@ -1,6 +1,9 @@
 # Intro
 Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned AI engineer working in Python.  
 
+# Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=howard-haowen&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 # About me
 - 👨‍🏫 Fun fact: I taught English for a living but now work as an AI/NLP engineer. 
