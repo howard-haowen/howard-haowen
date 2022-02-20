@@ -1,13 +1,6 @@
 # Intro
 Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned AI engineer working in Python.  
 
-# Cards
-## GitHub stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=howard-haowen&hide=contribs,prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Top languages
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=howard-haowen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 # About me
 - 👨‍🏫 Fun fact: I taught English for a living but now work as an AI/NLP engineer. 
@@ -16,6 +9,10 @@ Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned A
 - ☁️ I hold the certificate of [Microsoft Certified: Azure Data Scientist Associate](https://www.credly.com/badges/7c4f2a43-cf71-4604-b36d-d68544c96a2e/public_url) (DP-100).
 - 🔬 I’m currently working on a [WEB APP](https://share.streamlit.io/howard-haowen/spacy-streamlit/master/app.py) that leverages the power of [spaCy](https://spacy.io/) to assist language learning.
 - 📫 How to reach me: howard.haowen AT gmail.com
+
+---
+# Top languages
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=howard-haowen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 # My toolkit
