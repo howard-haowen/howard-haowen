@@ -11,8 +11,12 @@ Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned A
 - 📫 How to reach me: howard.haowen AT gmail.com
 
 ---
-# Top languages
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=howard-haowen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Cards
+## Top languages
+[![Haowen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=howard-haowen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub stats
+![Haowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=howard-haowen&hide=contribs,prs&show_icons=true&theme=dracula)
 
 ---
 # My toolkit
