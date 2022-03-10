@@ -5,13 +5,18 @@ Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned A
 
 ---
 # About me
-- 👨‍🏫 Fun fact: I taught English for a living but now work as an AI/NLP engineer. 
-- 🤗 Here's my [blog](https://howard-haowen.github.io/blog.ai), which documents my learning journey to the world of programming and NLP.
-- 🌐 Here's my [academic profile](https://howard-haowen.github.io).
-- ☁️ I hold the certificate of [Microsoft Certified: Azure Data Scientist Associate](https://www.credly.com/badges/7c4f2a43-cf71-4604-b36d-d68544c96a2e/public_url) (DP-100).
-- 🔬 I’m currently working on a [WEB APP](https://share.streamlit.io/howard-haowen/spacy-streamlit/master/app.py) that leverages the power of [spaCy](https://spacy.io/) to assist language learning.
+- 👨‍🏫 Fun fact: I used to teach English for a living, but now work as an AI/NLP engineer. 
+- 🤗 Here's [my profile page](https://howard-haowen.github.io).
+- 📇 I have [these certificates](https://howard-haowen.github.io/md/certificates) up my sleeve.
 - 📫 How to reach me: howard.haowen AT gmail.com
-
+  
+---
+# Side probjects
+- 📕 [my AI blog](https://howard-haowen.github.io/blog.ai), which documents my learning journey to the world of programming and NLP
+- 📗 [a Web APP](https://share.streamlit.io/howard-haowen/spacy-streamlit/master/app.py) that leverages the power of [spaCy](https://spacy.io/) to assist language learning
+- 📘 [a database](https://share.streamlit.io/howard-haowen/formosan-languages/main/app.py) of Formosan-Mandarin sentence pairs, covering over 13,000 sentences across 16 Formosan languages
+- 📙 [a Wordle game](https://howard-haowen.github.io/Wordle/) in the Paiwan language, a language of Taiwan
+  
 ---
 # Cards
 ## Top languages
