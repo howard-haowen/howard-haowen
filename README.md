@@ -15,7 +15,8 @@ Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned A
 - 📕 [my AI blog](https://howard-haowen.github.io/blog.ai), which documents my learning journey to the world of programming and NLP
 - 📗 [a Web APP](https://share.streamlit.io/howard-haowen/spacy-streamlit/master/app.py) that leverages the power of [spaCy](https://spacy.io/) to assist language learning
 - 📘 [a database](https://share.streamlit.io/howard-haowen/formosan-languages/main/app.py) of Formosan-Mandarin sentence pairs, covering over 13,000 sentences across 16 Formosan languages
-- 📙 [a Wordle game](https://howard-haowen.github.io/Wordle/) in the Paiwan language, a language of Taiwan
+- 📙 [the Wordle game](https://howard-haowen.github.io/Wordle/) in [Paiwan](https://en.wikipedia.org/wiki/Paiwan_language), a language of Taiwan
+- 📙 [the Wordle game](https://howard-haowen.github.io/Amis-Wordle/) in [Amis](https://en.wikipedia.org/wiki/Amis_language), a language of Taiwan
   
 ---
 # Cards
