@@ -11,16 +11,6 @@ Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned A
 - 📫 How to reach me: howard.haowen AT gmail.com
   
 ---
-# Side probjects
-- 📕 [my AI blog](https://howard-haowen.github.io/blog.ai), which documents my learning journey to the world of programming and NLP
-- 📗 [a Web APP](https://share.streamlit.io/howard-haowen/spacy-streamlit/master/app.py) that leverages the power of [spaCy](https://spacy.io/) to assist language learning
-- 📘 [a database](https://share.streamlit.io/howard-haowen/formosan-languages/main/app.py) of Formosan-Mandarin sentence pairs, covering over 13,000 sentences across 16 Formosan languages
-- 📙 the [Wordle](https://www.nytimes.com/games/wordle/index.html) game in languages of Taiwan
-  - In [Taiwanese Southern Min](https://en.wikipedia.org/wiki/Taiwanese_Hokkien): play the game [here](https://howard-haowen.github.io/tsm-wordle/) 
-  - In [Paiwan](https://en.wikipedia.org/wiki/Paiwan_language): play the game [here](https://howard-haowen.github.io/paiwan-wordle/) 
-  - In [Amis](https://en.wikipedia.org/wiki/Amis_language): play the game [here](https://howard-haowen.github.io/amis-wordle/) 
-  
----
 # Cards
 ## Top languages
 [![Haowen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=howard-haowen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
