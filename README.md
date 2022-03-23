@@ -6,9 +6,9 @@ Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned A
 ---
 # About me
 - 👨‍🏫 Fun fact: I used to teach English for a living, but now work as an AI/NLP engineer. 
-- 🤗 Here's [my profile page](https://howard-haowen.github.io).
+- 🤗 Here's [my personal portfolio website](https://howard-haowen.github.io).
 - 📇 I have [these certificates](https://howard-haowen.github.io/md/certificates) up my sleeve.
-- 📫 How to reach me: howard.haowen AT gmail.com
+- 📫 How to reach me: howard DOT haowen AT gmail.com
   
 ---
 # Cards
