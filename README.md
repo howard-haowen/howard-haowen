@@ -12,9 +12,6 @@ Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned A
 ## Top languages
 [![Haowen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=howard-haowen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## GitHub stats
-![Haowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=howard-haowen&hide=prs&show_icons=true&theme=gruvbox)
-
 ---
 # Social media
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haowen-jiang-phd-16242074/)
@@ -107,6 +104,9 @@ Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned A
 ![hackerrank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)
 
 <!--
+
+## GitHub stats
+![Haowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=howard-haowen&hide=prs&show_icons=true&theme=gruvbox)
 **howard-haowen/howard-haowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
