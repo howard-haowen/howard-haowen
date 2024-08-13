@@ -4,8 +4,8 @@ Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned A
 ---
 # About me
 - 👨‍🏫 Fun fact: I used to teach English for a living, but now work as an AI/NLP engineer. 
-- 🤗 Here's [my personal portfolio website](https://howard-haowen.github.io).
-- 📇 I have [these certifications](https://howard-haowen.github.io/certifications) up my sleeve.
+- 🤗 Here's [my personal portfolio website](https://bit.ly/4fL1hX0).
+- 📇 I have [these certifications](bit.ly/3X0pd0R) up my sleeve.
   
 ---
 # Cards
