@@ -1,118 +1,35 @@
-# Intro
-Howdy y'all 🤠! My name is how-when, don't ask me why. I'm a linguist-turned AI engineer working in Python.  
+# 💫 About Me
+
+Howdy y'all 🤠 — I'm **Haowen Jiang** (how-wen, pronounced like "how" + "when"). A linguist who went rogue into AI engineering.
+
+I hold a **Ph.D. in Linguistics from Rice University** and have since traded syntax trees for neural networks. I've built language tools, data products, and AI pipelines at companies ranging from scrappy startups to IBM. Before that, I was a university English lecturer in Taiwan.
+
+> _From decoding human language in academia to building machines that understand it in industry — same obsession, different tools._
+
+- 🧠 **Current role**: AI Engineer @ IBM Client Engineering
+- 🌏 **Past lives**: Postdoc researcher (PKU), university English lecturer, NLP engineer at multiple AI startups
+- 🗣️ **Languages spoken**: English, Mandarin, Taiwanese Southern Min
+- 🎮 **Side quests**: Built Wordle games in indigenous languages of Taiwan (Paiwan, Amis, Taiwanese Hokkien)
+- 📍 **Based in**: Taipei, Taiwan
 
 ---
-# About me
-- 👨‍🏫 Fun fact: I used to teach English for a living, but now work as an AI/NLP engineer. 
-- 🤗 Here's [my personal portfolio website](https://bit.ly/4fL1hX0).
-- 📇 I have [these certifications](https://bit.ly/3X0pd0R) up my sleeve.
-  
----
-# Cards
-## Top languages
-[![Haowen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=howard-haowen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haowen-jiang-16242074)
+[![Personal Site](https://img.shields.io/badge/Website-hw.is--a.dev-0f62fe?style=flat&logo=github&logoColor=white)](https://hw.is-a.dev)
+[![Certifications](https://img.shields.io/badge/IBM%20Certifications-View%20All-052FAD?style=flat&logo=ibm&logoColor=white)](https://hw.is-a.dev/certifications/)
 
 ---
-# Social media
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haowen-jiang-phd-16242074/)
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
-# My toolkit
-## Language
-![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![latex](https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=latex&logoColor=white)
-![golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![awk](https://img.shields.io/badge/AWK-navy?style=flat-square&logoColor=white)
 
-## General data science 
-![numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+## 📊 GitHub Stats
 
-## Machine learning & deep learning
-![scikitlearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![tensorflow](https://img.shields.io/badge/Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![pycaret](https://img.shields.io/badge/PyCaret-navy?style=flat-square&logoColor=white)
-
-## Natural language processing 
-![nltk](https://img.shields.io/badge/NLTK-navy?style=flat-square&logoColor=white)
-![spacy](https://img.shields.io/badge/spaCy-navy?style=flat-square&logoColor=white)
-![gensim](https://img.shields.io/badge/Gensim-navy?style=flat-square&logoColor=white)
-![huggingface](https://img.shields.io/badge/Hugging_Face_Transformers-navy?style=flat-square&logoColor=white)
-
-## Deployment & Cloud
-![fastapi](https://img.shields.io/badge/fastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![pm2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![azure](https://img.shields.io/badge/Microsoft_Azure-2560E0?style=flat-square&logo=azurepipelines&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-
-## Web APPs for MLOps and DS
-![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![budibase](https://img.shields.io/badge/Budibase-navy?style=flat-square&logoColor=white)
-![anvil](https://img.shields.io/badge/Anvil-navy?style=flat-square&logoColor=white)
-![mlflow](https://img.shields.io/badge/MLflow-navy?style=flat-square&logoColor=white)
-![rubrix](https://img.shields.io/badge/Rubrix-navy?style=flat-square&logoColor=white)
-![labelstudio](https://img.shields.io/badge/Label_Studio-navy?style=flat-square&logoColor=white)
-
-## Visualization
-![plotly](https://img.shields.io/badge/Plotly-EB3C00?style=flat-square&logo=plotly&logoColor=white)
-![kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![matplotlib](https://img.shields.io/badge/Matplotlib-navy?style=flat-square&logoColor=white)
-![seaborn](https://img.shields.io/badge/Seaborn-navy?style=flat-square&logoColor=white)
-![altair](https://img.shields.io/badge/Altair-navy?style=flat-square&logoColor=white)
-![scattertext](https://img.shields.io/badge/Scattertext-navy?style=flat-square&logoColor=white)
-
-## Database
-![elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-## Control 
-![anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![gitlab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
-
-## Management APPs
-![obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
-![trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![jira](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-
-## Editor & IDE
-![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![googlecolab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
-![binder](https://img.shields.io/badge/Binder-navy?style=flat-square&logoColor=white)
-
-## Webpages
-[![](https://img.shields.io/static/v1?label=fastai&message=fastpages&color=57aeac&labelColor=black&style=flat&logo=data:image/png;base64,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)](https://github.com/fastai/fastpages)
-![githubpages](https://img.shields.io/badge/Github_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-
-## Online learning 
-![udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
-![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
-![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![hackerrank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)
-
-<!--
-
-## GitHub stats
-![Haowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=howard-haowen&hide=prs&show_icons=true&theme=gruvbox)
-**howard-haowen/howard-haowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
+![](https://github-readme-stats.shion.dev/api?username=howard-haowen&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=howard-haowen&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=howard-haowen&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
